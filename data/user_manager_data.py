@@ -6,5 +6,5 @@ class UserManagerData():
 	"errno":0,
 	"username":"testp123",
 	"password":"123456",
-	"new_usernama":"testp321"
+	"new_username":"testp321"
 	}
